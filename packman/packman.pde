@@ -1,6 +1,3 @@
-// We can go anywhere !
-// HY2018051985 juhee Cha 
-
 String s = "we can go anywhere";
 int between = 120;
 PFont font;
